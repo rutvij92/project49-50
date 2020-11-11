@@ -1,0 +1,44 @@
+
+  img{
+    border:2px solid cornflowerblue;
+    border-radius: 50px;
+  }
+.i{
+background-color: blueviolet;
+
+
+}
+
+.j{
+  background-color: cyan;
+  
+  
+  }
+
+.k{
+  background-color: deepskyblue;
+}
+.l{
+  background-color: aquamarine;
+}
+.m{
+
+  background-color: burlywood;
+}
+.n{
+  background-color: coral;
+}
+
+
+
+.header{
+  border-radius: 20px;
+  background-color: #ffffff;
+  padding: 30px;
+  margin:25px;
+  font-family: fantasy;
+}
+body{
+  margin:0px;
+  background-color: #f7f2f2;
+}
